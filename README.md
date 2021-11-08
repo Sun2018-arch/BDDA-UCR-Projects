@@ -12,8 +12,7 @@ Columns:
 **Question 2**
 Context
 Given the personal details of a patient, we have to predict medical cost. Please find attached insurane.csv file. This a regression problem and you can use any of the regression algorithms provided by the pyspark.
-
-Columns
+Columns:
 1) age: age of primary beneficiary
 2) sex: insurance contractor gender, female, male
 3) bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
