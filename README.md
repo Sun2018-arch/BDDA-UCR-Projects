@@ -1,5 +1,5 @@
 # BDDA-UCR-Projects
-**Question 1**<\n>
+**Question 1**
 NLP: Perform Text Classification on the attached file Coronavirus tweets using Py spark. You can use any algorithm of your choice. The example we learnt during class can be used for reference. 
 Columns:
 1) Location
